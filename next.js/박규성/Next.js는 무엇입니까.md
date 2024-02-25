@@ -1,0 +1,1 @@
+Next.js는 React.js, Node.js 및 JavaScript 위에 구축된 오픈 소스 개발 프레임워크입니다. Vercel에서 개발했으며 create-react-app에서 사용할 수 없는 서버 측 렌더링 및 정적 사이트 생성과 같은 기능을 활성화합니다.
