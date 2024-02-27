@@ -1,0 +1,2 @@
+- useQuery는 데이터를 받아올 때(get), useMutation은 데이터를 수정할 때 사용한다.
+- useMutation으로 데이터를 변경, 삭제(update, delete)한 뒤 데이터를 다시 받아올 때는 onSuccess 옵션에 invalidateQueries를 사용하여 변경된 새로운 데이터를 자동으로 받아올 수 있도록 한다.
